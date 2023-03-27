@@ -1,4 +1,5 @@
 # symf_log_reg
+
 symfony check:requirements
 symfony new my_app
 cd my_app
